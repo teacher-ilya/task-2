@@ -1,10 +1,4 @@
-import json
+from functions import *
 
-
-def send_message(text):
-    print(text)
-
-
-def send_report():
-    # send quantity report
+def main():
     pass

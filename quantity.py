@@ -1,4 +1,4 @@
-{
+quantity = {
     "cream": 2000,
     "chocolate": 1000,
     "vanilla": 100,
