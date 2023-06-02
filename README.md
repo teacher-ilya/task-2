@@ -1,3 +1,4 @@
+[![flake8](https://github.com/Private-Python-Class/task-2-icecream/actions/workflows/lint-test.yml/badge.svg)](https://github.com/Private-Python-Class/task-2-icecream/actions/workflows/lint-test.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c44186e21b0461afb6f2/maintainability)](https://codeclimate.com/github/Private-Python-Class/task-2-icecream/maintainability)
 
 # Аппарат для изготовления мороженного
@@ -18,7 +19,7 @@
 
 ## Условия
 
-* Вывод сообщений производится с помощью функции ```send_message()```, в коде не используется ```print```dotnetcli
+* Вывод сообщений производится с помощью функции ```send_message()```, в коде не используется ```print```
 * Ввод производиться с помощью функции ```get_input```
 * Тесты должны работать
 * Запуск программы производится через ```main.py```
