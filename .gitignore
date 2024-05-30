@@ -1,3 +1,10 @@
-venv/
-*replit*
+.venv/
+.vscode/
+.idea/
 *cache*
+*.log
+poetry.lock
+.python-version
+.env
+history.txt
+files

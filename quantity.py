@@ -1,7 +1,0 @@
-quantity = {
-    "cream": 2000,
-    "chocolate": 1000,
-    "vanilla": 100,
-    "banana": 2000,
-    "strawberry": 200
-}
