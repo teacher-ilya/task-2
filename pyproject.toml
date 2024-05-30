@@ -1,12 +1,15 @@
 [tool.poetry]
-name = "icecream-task"
+name = "icecream-api"
 version = "0.1.0"
 description = ""
-authors = ["Kuznetsov Ilya <KuznetsOFF.ilya@yandex.ru>"]
+authors = ["Ilya Kuznetsov <ilkztsff@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+flask = "^3.0.3"
+pydantic = "^2.7.2"
+python-dotenv = "^1.0.1"
 
 
 [tool.poetry.group.dev.dependencies]

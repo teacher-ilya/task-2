@@ -1,0 +1,42 @@
+{
+  "chocolate": {
+    "price": 15,
+    "recipe": {
+      "cream": 200,
+      "chocolate": 200,
+      "vanilla": 0,
+      "banana": 0,
+      "strawberry": 0
+    }
+    },
+    "vanilla": {
+      "price": 16,
+      "recipe": {
+        "cream": 400,
+        "vanilla": 5,
+        "chocolate": 0,
+        "banana": 0,
+        "strawberry": 0
+    }
+    },
+    "banana": {
+      "price": 17,
+      "recipe": {
+        "cream": 200,
+        "banana": 200,
+        "vanilla": 0,
+        "chocolate": 0,
+        "strawberry": 0
+      }
+    },
+    "strawberry": {
+      "price": 19,
+      "recipe": {
+        "cream": 350,
+        "strawberry": 50,
+        "banana": 200,
+        "vanilla": 0,
+        "chocolate": 0
+      }
+    }
+}
